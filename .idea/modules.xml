@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../android_performance_testing/.idea/android_performance_testing.iml" filepath="$PROJECT_DIR$/../../android_performance_testing/.idea/android_performance_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../testing/atxdemo-master/.idea/atxdemo.iml" filepath="$PROJECT_DIR$/../../../testing/atxdemo-master/.idea/atxdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../automation_hongqi_club/.idea/automation_hongqi_club.iml" filepath="$PROJECT_DIR$/../../automation_hongqi_club/.idea/automation_hongqi_club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../data_structure_practice/.idea/data_structure_practice.iml" filepath="$PROJECT_DIR$/../../data_structure_practice/.idea/data_structure_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hongqi_club/.idea/hongqi_club.iml" filepath="$PROJECT_DIR$/../../hongqi_club/.idea/hongqi_club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../local_practice/.idea/local_practice.iml" filepath="$PROJECT_DIR$/../../local_practice/.idea/local_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../m0ow/.idea/m0ow.iml" filepath="$PROJECT_DIR$/../../../m0ow/.idea/m0ow.iml" />
+      <module fileurl="file://D:/资料/Android专项测试_Python篇/m0ow5e/.idea/m0ow5e.iml" filepath="D:/资料/Android专项测试_Python篇/m0ow5e/.idea/m0ow5e.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_practice.iml" filepath="$PROJECT_DIR$/.idea/python_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../uiautomator2_source_codes/uiautomator2/.idea/uiautomator2.iml" filepath="$PROJECT_DIR$/../../uiautomator2_source_codes/uiautomator2/.idea/uiautomator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../uiautomator2_practice/.idea/uiautomator2_practice.iml" filepath="$PROJECT_DIR$/../../uiautomator2_practice/.idea/uiautomator2_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../unittest_practice/.idea/unittest_practice.iml" filepath="$PROJECT_DIR$/../../unittest_practice/.idea/unittest_practice.iml" />
+      <module fileurl="file://D:/work_files/测试组分享会议/测试组分享会议002/3.python+u2+unittest+htmltestrunner/xiaoma/.idea/xiaoma.iml" filepath="D:/work_files/测试组分享会议/测试组分享会议002/3.python+u2+unittest+htmltestrunner/xiaoma/.idea/xiaoma.iml" />
     </modules>
   </component>
 </project>

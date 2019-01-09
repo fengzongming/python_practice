@@ -4,5 +4,17 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="data_structure_practice" />
+    <orderEntry type="module" module-name="uiautomator2_practice" />
+    <orderEntry type="module" module-name="android_performance_testing" />
+    <orderEntry type="module" module-name="local_practice" />
+    <orderEntry type="module" module-name="uiautomator2" />
+    <orderEntry type="module" module-name="automation_hongqi_club" />
+    <orderEntry type="module" module-name="xiaoma" />
+    <orderEntry type="module" module-name="unittest_practice" />
+    <orderEntry type="module" module-name="m0ow5e" />
+    <orderEntry type="module" module-name="m0ow" />
+    <orderEntry type="module" module-name="atxdemo" />
+    <orderEntry type="module" module-name="hongqi_club" />
   </component>
 </module>
